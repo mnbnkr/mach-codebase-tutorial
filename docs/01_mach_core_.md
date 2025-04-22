@@ -6,7 +6,7 @@ nav_order: 2
 
 # Chapter 1: Mach Core (Windowing & Input)
 
-> (`mach.Core`)
+> (`mach.Core`) — *Mach Engine 0.4*
 
 > ***CAUTION**:* *THIS TUTORIAL WAS AI-GENERATED AND MAY CONTAIN ERRORS. IT IS **NOT** AFFILIATED WITH OR ENDORSED BY HEXOPS/MACH.*
 

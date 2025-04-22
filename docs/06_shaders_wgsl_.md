@@ -6,6 +6,8 @@ nav_order: 7
 
 # Chapter 6: Shaders (WGSL)
 
+> *Mach Engine 0.4*
+
 > ***CAUTION**:* *THIS TUTORIAL WAS AI-GENERATED AND MAY CONTAIN ERRORS. IT IS **NOT** AFFILIATED WITH OR ENDORSED BY HEXOPS/MACH.*
 
 In [Chapter 5: High-Level Graphics](05_mach_gfx_.md), we saw how `mach.gfx` makes drawing sprites and text easy. We just created sprite objects, set their positions and textures, and called `sprite_mod.call(.tick)`. But how does the graphics card (GPU) *actually know* how to draw that sprite image onto a rectangle at the correct position on the screen?

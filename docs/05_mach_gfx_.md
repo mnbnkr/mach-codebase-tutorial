@@ -6,7 +6,7 @@ nav_order: 6
 
 # Chapter 5: High-Level Graphics
 
-> (`mach.gfx`)
+> (`mach.gfx`) — *Mach Engine 0.4*
 
 > ***CAUTION**:* *THIS TUTORIAL WAS AI-GENERATED AND MAY CONTAIN ERRORS. IT IS **NOT** AFFILIATED WITH OR ENDORSED BY HEXOPS/MACH.*
 

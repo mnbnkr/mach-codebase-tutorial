@@ -6,7 +6,7 @@ nav_order: 12
 
 # Chapter 11: Dependency Management
 
-> (`build.zig.zon`)
+> (`build.zig.zon`) — *Mach Engine 0.4*
 
 > ***CAUTION**:* *THIS TUTORIAL WAS AI-GENERATED AND MAY CONTAIN ERRORS. IT IS **NOT** AFFILIATED WITH OR ENDORSED BY HEXOPS/MACH.*
 

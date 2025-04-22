@@ -6,7 +6,7 @@ nav_order: 5
 
 # Chapter 4: Mach Modules
 
-> (`mach.Modules`)
+> (`mach.Modules`) — *Mach Engine 0.4*
 
 > ***CAUTION**:* *THIS TUTORIAL WAS AI-GENERATED AND MAY CONTAIN ERRORS. IT IS **NOT** AFFILIATED WITH OR ENDORSED BY HEXOPS/MACH.*
 

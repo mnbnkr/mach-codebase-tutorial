@@ -6,7 +6,7 @@ nav_order: 10
 
 # Chapter 9: Math Library
 
-> (`mach.math`)
+> (`mach.math`) — *Mach Engine 0.4*
 
 > ***CAUTION**:* *THIS TUTORIAL WAS AI-GENERATED AND MAY CONTAIN ERRORS. IT IS **NOT** AFFILIATED WITH OR ENDORSED BY HEXOPS/MACH.*
 

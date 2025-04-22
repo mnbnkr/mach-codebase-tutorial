@@ -6,7 +6,7 @@ nav_order: 11
 
 # Chapter 10: Build System
 
-> (`build.zig`)
+> (`build.zig`) — *Mach Engine 0.4*
 
 > ***CAUTION**:* *THIS TUTORIAL WAS AI-GENERATED AND MAY CONTAIN ERRORS. IT IS **NOT** AFFILIATED WITH OR ENDORSED BY HEXOPS/MACH.*
 

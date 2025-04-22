@@ -6,7 +6,7 @@ nav_order: 3
 
 # Chapter 2: Mach Object System
 
-> (`mach.Objects`, `ObjectID`)
+> (`mach.Objects`, `ObjectID`) — *Mach Engine 0.4*
 
 > ***CAUTION**:* *THIS TUTORIAL WAS AI-GENERATED AND MAY CONTAIN ERRORS. IT IS **NOT** AFFILIATED WITH OR ENDORSED BY HEXOPS/MACH.*
 

@@ -6,7 +6,7 @@ nav_order: 9
 
 # Chapter 8: Audio Abstraction
 
-> (`mach.sysaudio` / `mach.Audio`)
+> (`mach.sysaudio` / `mach.Audio`) — *Mach Engine 0.4*
 
 > ***CAUTION**:* *THIS TUTORIAL WAS AI-GENERATED AND MAY CONTAIN ERRORS. IT IS **NOT** AFFILIATED WITH OR ENDORSED BY HEXOPS/MACH.*
 
