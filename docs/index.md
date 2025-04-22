@@ -25,7 +25,7 @@ flowchart TD
     A7["Math Library"]
     A8["Shaders (WGSL)"]
     A9["High-Level Graphics (mach.gfx)"]
-    A10["Dependency Management"]
+    <!-- A10["Dependency Management"] -->
     A0 -- "Compiles/Links Modules" --> A1
     A0 -- "Configures/Links 'mach.Core'" --> A4
     A0 -- "Configures/Links 'sysgpu'" --> A5
