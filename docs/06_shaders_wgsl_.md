@@ -44,7 +44,7 @@ Let's look at some very simple WGSL code to see what these shader programs look 
 
 Imagine we want to draw a simple triangle. We need a vertex shader to tell the GPU where the triangle's three corners are.
 
-```wgsl
+```rust
 // File: simple_triangle.wgsl (Vertex Part)
 
 // This function defines our vertex shader.
@@ -86,7 +86,7 @@ fn vs_main(
 
 Now we need a fragment shader to tell the GPU what color to make the pixels *inside* the triangle defined by the vertex shader.
 
-```wgsl
+```rust
 // File: simple_triangle.wgsl (Fragment Part)
 
 // This function defines our fragment shader.

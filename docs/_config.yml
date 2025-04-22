@@ -1,6 +1,6 @@
 # Basic site settings
 title: Mach Codebase Tutorial (AI‑gen)
-description: "A comprehensive, AI‑generated tutorial to understanding the Mach engine (Zig-based) codebase—walk through diagrams, best practices, and callouts."
+description: "A comprehensive, AI‑generated tutorial to understanding the Mach engine codebase (Zig language)."
 keywords: ["Mach engine", "zig", "codebase", "tutorial", "under the hood", "AI-generated"]
 url: "https://mnbnkr.github.io"
 baseurl: "/mach-codebase-tutorial"
@@ -69,9 +69,3 @@ callouts:
   best-practice:
     title: Best Practice
     color: green
-
-# Search box
-search_enabled: true
-
-search:
-  placeholder: "Search the tutorial…"
