@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 6: Shaders (WGSL)"
+title: "Ch. 6: Shaders (WGSL)"
 nav_order: 7
 ---
 

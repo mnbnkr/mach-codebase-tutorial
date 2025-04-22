@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 10: Build System"
+title: "Ch. 10: Build System"
 nav_order: 11
 ---
 

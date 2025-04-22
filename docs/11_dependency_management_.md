@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 11: Dependency Management"
+title: "Ch. 11: Dependency Management"
 nav_order: 12
 ---
 
