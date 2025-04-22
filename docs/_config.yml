@@ -53,10 +53,8 @@ permalink: pretty
 # google_site_verification: "YOUR_VERIFICATION_TOKEN"
 
 # Mermaid
-mermaid: {}
-
-# mermaid:
-#   version: "11.6.0"
+mermaid:
+  version: "11.6.0"
   # config: |
   #   directionLR
 
@@ -73,6 +71,7 @@ callouts:
     color: green
 
 # Search box
+search_enabled: true
+
 search:
-  enabled: true
   placeholder: "Search the tutorial…"
