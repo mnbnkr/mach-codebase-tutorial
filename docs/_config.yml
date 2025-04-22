@@ -61,10 +61,10 @@ mermaid:
 callouts:
   warning:
     title: Warning
-    color: blue          # closest match to cyan
+    color: blue     # theme will use $blue-300 under the hood
   note:
     title: Note
-    color: grey-dk-300   # deep charcoal/black accent
+    color: grey-dk  # theme will use $grey-dk-300
   best-practice:
     title: Best Practice
     color: blue
