@@ -1,0 +1,45 @@
+
+# Basic site settings
+title: Mach Codebase Tutorial (AI-gen)
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs
+
+# Navigation
+# nav_sort: case_sensitive # <-- REMOVED this line to use explicit 'nav' order
+
+# Aux links (shown in upper right)
+aux_links:
+  "View on GitHub":
+    - "https://github.com/mnbnkr/mach-codebase-tutorial"
+
+# Color scheme
+color_scheme: light
+
+# Author settings
+author:
+    name: mnbnkr
+    url: https://github.com/mnbnkr
+
+# Mermaid settings
+mermaid:
+  version: "11.6.0" # 10.9.3 doesn't have codespan bugs
+  config: |
+    directionLR
+
+# Callouts settings
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: blue
+  best-practice:
+    title: Best Practice
+    color: green
+
+# The custom navigation - explicit order with correct titles
+nav:
+  # Keep the external link
+  - GitHub: "https://github.com/mnbnkr/mach-codebase-tutorial"
