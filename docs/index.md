@@ -44,7 +44,7 @@ flowchart TD
     A9 -- "Manages Graphics Objects" --> A2
     A9 -- "Abstracts 'sysgpu'" --> A5
     A9 -- "Uses Math (Geometry)" --> A7
-    A10 -- "Defines Dependencies" --> A0
+    <!-- A10 -- "Defines Dependencies" --> A0 -->
 ```
 
 ## Chapters
