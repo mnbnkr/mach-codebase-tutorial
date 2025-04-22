@@ -61,13 +61,13 @@ mermaid:
 callouts:
   warning:
     title: Warning
-    color: cyan
+    color: blue          # closest match to cyan
   note:
     title: Note
-    color: cyan
+    color: grey-dk-300   # deep charcoal/black accent
   best-practice:
     title: Best Practice
-    color: cyan
+    color: blue
 
 # # Callouts
 # callouts:
