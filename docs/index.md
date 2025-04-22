@@ -43,7 +43,7 @@ flowchart TD
 
 ## Chapters
 
-1. [Mach Core (Windowing & Input)](01_mach_core_.md)
+1. [Mach Core: Essentials](01_mach_core_.md)
 2. [Mach Object System (`mach.Objects`, `ObjectID`)](02_mach_object_system_.md)
 3. [Mach Systems (`mach_systems`, `mach.schedule`)](03_mach_systems_.md)
 4. [Mach Modules (`mach.Modules`)](04_mach_modules_.md)

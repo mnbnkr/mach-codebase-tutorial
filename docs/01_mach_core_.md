@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "1. Mach Core (Windowing & Input)"
+title: "1. Mach Core: Essentials"
 nav_order: 2
 ---
 
-# Chapter 1: Mach Core (Windowing & Input)
+# Chapter 1: Mach Core: Windowing & Events
 
 > (`mach.Core`) — *Mach Engine 0.4*
 

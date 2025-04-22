@@ -10,7 +10,7 @@ nav_order: 3
 
 > ***CAUTION**:* *THIS TUTORIAL WAS AI-GENERATED AND MAY CONTAIN ERRORS. IT IS **NOT** AFFILIATED WITH OR ENDORSED BY HEXOPS/MACH.*
 
-In [Chapter 1: Mach Core (Windowing & Input)](01_mach_core_.md), we saw how `mach.Core` manages essential tasks like creating windows and handling input. We even saw a hint of how it manages window data using `core.windows`, which is actually an instance of `mach.Objects`. Now, let's dive into how Mach organizes and manages *all sorts* of data in your application or game.
+In [Chapter 1: Mach Core: Essentials](01_mach_core_.md), we saw how `mach.Core` manages essential tasks like creating windows and handling input. We even saw a hint of how it manages window data using `core.windows`, which is actually an instance of `mach.Objects`. Now, let's dive into how Mach organizes and manages *all sorts* of data in your application or game.
 
 ## Why a Special System for Data?
 

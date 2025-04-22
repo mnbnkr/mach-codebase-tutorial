@@ -53,7 +53,7 @@ Get Adapter -> Get Device & Queue -> Create Resources (Shaders, Pipeline, Buffer
 
 Let's revisit the simple triangle from [Chapter 6: Shaders (WGSL)](06_shaders_wgsl_.md). How would we use `mach.gpu` *directly* to draw it? (Note: This is more involved than using `mach.gfx`, but shows the underlying process).
 
-We'll assume we have a `window` object obtained from [Chapter 1: Mach Core (Windowing & Input)](01_mach_core_.md), which already gives us access to the `Device` and `Queue`. We also assume our WGSL shader (`simple_triangle.wgsl`) has been processed by the build system ([Chapter 10: Build System](10_build_system_.md)).
+We'll assume we have a `window` object obtained from [Chapter 1: Mach Core: Essentials](01_mach_core_.md), which already gives us access to the `Device` and `Queue`. We also assume our WGSL shader (`simple_triangle.wgsl`) has been processed by the build system ([Chapter 10: Build System](10_build_system_.md)).
 
 **1. Getting the Device and Queue**
 
