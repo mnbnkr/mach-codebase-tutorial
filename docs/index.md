@@ -19,12 +19,11 @@ flowchart TD
     A1["Mach Modules"]
     A2["Mach Object System"]
     A3["Mach Systems"]
-    A4["Mach Core (Windowing & Input)"]
+    A4["Mach Core"]
     A5["Graphics Abstraction"]
     A6["Audio Abstraction"]
     A7["Math Library"]
     A8["Shaders (WGSL)"]
-    A9["High-Level Graphics (mach.gfx)"]
     A0 -- "Compiles/Links Modules" --> A1
     A0 -- "Configures/Links 'mach.Core'" --> A4
     A0 -- "Configures/Links 'sysgpu'" --> A5
@@ -40,9 +39,6 @@ flowchart TD
     A5 -- "Uses Math (Transforms)" --> A7
     A5 -- "Executes Shaders" --> A8
     A6 -- "Manages Audio Objects" --> A2
-    A9 -- "Manages Graphics Objects" --> A2
-    A9 -- "Abstracts 'sysgpu'" --> A5
-    A9 -- "Uses Math (Geometry)" --> A7
 ```
 
 ## Chapters
