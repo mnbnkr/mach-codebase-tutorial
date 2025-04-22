@@ -25,7 +25,6 @@ flowchart TD
     A7["Math Library"]
     A8["Shaders (WGSL)"]
     A9["High-Level Graphics (mach.gfx)"]
-    <!-- A10["Dependency Management"] -->
     A0 -- "Compiles/Links Modules" --> A1
     A0 -- "Configures/Links 'mach.Core'" --> A4
     A0 -- "Configures/Links 'sysgpu'" --> A5
@@ -44,7 +43,6 @@ flowchart TD
     A9 -- "Manages Graphics Objects" --> A2
     A9 -- "Abstracts 'sysgpu'" --> A5
     A9 -- "Uses Math (Geometry)" --> A7
-    <!-- A10 -- "Defines Dependencies" --> A0 -->
 ```
 
 ## Chapters
