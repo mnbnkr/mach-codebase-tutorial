@@ -1,6 +1,6 @@
 # Basic site settings
 title: Mach Codebase Tutorial (AI‑gen)
-description: "A comprehensive, AI‑generated tutorial to understanding the Mach codebase—walk through diagrams, best practices, and callouts."
+description: "A comprehensive, AI‑generated tutorial to understanding the Mach engine (Zig-based) codebase—walk through diagrams, best practices, and callouts."
 keywords: ["Mach engine", "zig", "codebase", "tutorial", "under the hood", "AI-generated"]
 url: "https://mnbnkr.github.io"
 baseurl: "/mach-codebase-tutorial"
@@ -15,7 +15,7 @@ plugins:
 
 # SEO tag configuration
 seo:
-  title: "{{ page.title }} · Mach Codebase Tutorial"
+  title: "{{ page.title }} · Mach Engine Codebase Tutorial"
   description: "{{ page.excerpt | strip_html | truncate: 160 }}"
   url: "{{ page.url | absolute_url }}"
   # twitter:
@@ -37,7 +37,7 @@ aux_links:
     - "https://github.com/mnbnkr/mach-codebase-tutorial"
 
 # Color scheme
-color_scheme: dark
+color_scheme: light
 
 # Author
 author:
@@ -45,45 +45,34 @@ author:
   url: https://github.com/mnbnkr
 
 # Permalinks
-permalink: /:title/
+# permalink: /:title/
+permalink: pretty
 
 # Open Graph / Social
 # social_image: "/assets/images/og-default.png"
 # google_site_verification: "YOUR_VERIFICATION_TOKEN"
 
 # Mermaid
-mermaid:
-  version: "11.6.0"
-  config: |
-    directionLR
+mermaid: {}
 
-# custom callouts
+# mermaid:
+#   version: "11.6.0"
+  # config: |
+  #   directionLR
+
+# Callouts
 callouts:
   warning:
     title: Warning
-    color: blue     # theme will use $blue-300 under the hood
+    color: red
   note:
     title: Note
-    color: grey-dk  # theme will use $grey-dk-300
+    color: blue
   best-practice:
     title: Best Practice
-    color: blue
-
-# # Callouts
-# callouts:
-#   warning:
-#     title: Warning
-#     color: red
-#   note:
-#     title: Note
-#     color: blue
-#   best-practice:
-#     title: Best Practice
-#     color: green
+    color: green
 
 # Search box
 search:
   enabled: true
   placeholder: "Search the tutorial…"
-
-# (You can still remove nav_sort if you prefer explicit nav order)
