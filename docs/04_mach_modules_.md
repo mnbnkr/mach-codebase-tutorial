@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ch. 4: Mach Modules"
+title: "4. Mach Modules"
 nav_order: 5
 ---
 

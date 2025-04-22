@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ch. 2: Mach Object System"
+title: "2. Mach Object System"
 nav_order: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ch. 5: High‑Level Graphics"
+title: "5. High‑Level Graphics"
 nav_order: 6
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ch. 8: Audio Abstraction"
+title: "8. Audio Abstraction"
 nav_order: 9
 ---
 

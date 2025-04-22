@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ch. 9: Math Library"
+title: "9. Math Library"
 nav_order: 10
 ---
 

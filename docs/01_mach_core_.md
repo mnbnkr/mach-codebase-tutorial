@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ch. 1: Mach Core (Windowing & Input)"
+title: "1. Mach Core (Windowing & Input)"
 nav_order: 2
 ---
 

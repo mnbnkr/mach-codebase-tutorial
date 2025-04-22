@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ch. 3: Mach Systems"
+title: "3. Mach Systems"
 nav_order: 4
 ---
 

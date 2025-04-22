@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ch. 7: Graphics Abstraction"
+title: "7. Graphics Abstraction"
 nav_order: 8
 ---
 
