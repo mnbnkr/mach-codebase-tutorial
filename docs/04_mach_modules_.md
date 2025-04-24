@@ -42,7 +42,7 @@ Let's break down the main ideas:
 
 ## Putting Modules to Work
 
-We've actually been using modules all along! Let's look at the `Getting Started` example code again.
+We've actually been using modules all along! Let's look at the `[Getting Started](https://machengine.org/docs/getting-started/)` example code again.
 
 **1. Defining a Module (`App.zig`)**
 
@@ -85,7 +85,7 @@ pub fn deinit(app: *App) void { ... }
 
 **2. Declaring the Application's Modules (`mach.Modules`)**
 
-Somewhere, Mach needs to know the complete list of modules available to the application. In the `Getting Started` example, this is conveniently placed within `App.zig` itself:
+Somewhere, Mach needs to know the complete list of modules available to the application. In the `[Getting Started](https://machengine.org/docs/getting-started/)` example, this is conveniently placed within `App.zig` itself:
 
 ```zig
 // src/App.zig (Near the top)
@@ -107,7 +107,7 @@ pub const Modules = mach.Modules(.{
 
 **3. Initialization (Implicit vs. Explicit)**
 
-*   **Standard Setup (Implicit):** When you use the standard `build.zig` template from `Getting Started`, it uses `@import("mach").addExecutable`. This helper function automatically sets up the entry point (`main.zig`) for you. It finds your `App.Modules` declaration, initializes all listed modules, and typically starts by running the `.main` system of your primary application module (often your `App` module). You don't need to write `main.zig` yourself.
+*   **Standard Setup (Implicit):** When you use the standard `build.zig` template from `[Getting Started](https://machengine.org/docs/getting-started/)`, it uses `@import("mach").addExecutable`. This helper function automatically sets up the entry point (`main.zig`) for you. It finds your `App.Modules` declaration, initializes all listed modules, and typically starts by running the `.main` system of your primary application module (often your `App` module). You don't need to write `main.zig` yourself.
 
 *   **Custom Setup (Explicit):** If you need more control (like in the `core-custom-entrypoint` example), you write your own `main.zig`. In this case, you explicitly initialize the modules:
 

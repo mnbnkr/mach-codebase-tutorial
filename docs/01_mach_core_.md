@@ -43,7 +43,7 @@ Let's break down the main ideas within `mach.Core`:
 
 ## Putting `mach.Core` to Work
 
-Let's see how you actually use `mach.Core`. In the "Getting Started" guide, you saw a basic `App.zig` file.
+Let's see how you actually use `mach.Core`. In the "[Getting Started](https://machengine.org/docs/getting-started/)" guide, you saw a basic `App.zig` file.
 
 **1. Including `mach.Core`**
 

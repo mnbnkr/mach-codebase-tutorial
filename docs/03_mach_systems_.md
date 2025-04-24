@@ -38,7 +38,7 @@ Mach provides `mach_systems` and `mach.schedule` to handle exactly this.
 
 ## Putting Systems and Schedules to Work
 
-Let's look back at the `App.zig` example from "Getting Started" and see how systems are used.
+Let's look back at the `App.zig` example from "[Getting Started](https://machengine.org/docs/getting-started/)" and see how systems are used.
 
 **1. Declaring Systems (`mach_systems`)**
 

@@ -49,7 +49,7 @@ Let's break down the essential ideas:
 
 ## Putting `build.zig` to Work: The "Getting Started" Example
 
-Let's look at the simple `build.zig` from the "Getting Started" guide and understand its parts.
+Let's look at the simple `build.zig` from the "[Getting Started](https://machengine.org/docs/getting-started/)" guide and understand its parts.
 
 ```zig
 // build.zig (from Getting Started)
