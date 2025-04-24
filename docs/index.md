@@ -10,6 +10,8 @@ nav_order: 1
 
 Mach is a **modular** game engine and graphics toolkit written in *Zig*. It helps developers create games and graphical applications by providing building blocks for common tasks. Key features include its own **object system** (an alternative to ECS), abstractions for *graphics* (`mach.gpu`/`mach.gfx`), *audio* (`mach.Audio`), and *windowing/input* (`mach.Core`), along with a math library (`mach.math`) and a build system that manages dependencies and compilation.
 
+You can begin installing Mach and creating your first project by following the official [Getting Started guide](https://machengine.org/docs/getting-started/).
+
 
 **Source Repository:** [hexops/mach](https://github.com/hexops/mach)
 
